@@ -13,5 +13,5 @@ I'm a Computer Science student with a high passion for Data Science and Web Deve
 
 # Programming Languages
 
-<img src="Users/mishasharma/Desktop/Github/JavaLogo.png" alt="Image Description" width="100" height="100">
+<img src="images/JavaLogo.png" alt="Image Description" width="100" height="100">
 
