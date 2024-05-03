@@ -1,4 +1,4 @@
-# Hi, I'm Misha Sharma! 
+3# Hi, I'm Misha Sharma! 
 I'm a Computer Science student with a high passion for Data Science and Web development!
 
 # About Me
@@ -22,5 +22,5 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 # IDE's Used 
 
-[![IntelliJ IDEA](https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg)](https://www.jetbrains.com/idea/)
+[<img src="https://en.wikipedia.org/wiki/IntelliJ_IDEA#/media/File:IntelliJ_IDEA_Icon.svg" height="40">](https://www.jetbrains.com/idea/)
 
