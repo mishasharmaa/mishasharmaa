@@ -28,7 +28,11 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 # Get In Touch 
 
-Reach out to me! Let's develop something life-changing!
+Reach out to me! Let's develop something life-changing! Here's my resume below!
+
+# Resume 
+
+[Resume](https://docs.google.com/document/d/1NP9sdXYnkMOjpxtr7nlWtSWYx2qKIrrSCalMp6zNKq0/edit?usp=sharing)
 
 
 
