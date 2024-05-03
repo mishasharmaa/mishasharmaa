@@ -13,5 +13,5 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 # Programming Languages
 
-<img src="/Users/mishasharma/mishasharmaa/images" alt="Image Description" width="100" height="100">
+<img src="/Users/mishasharma/mishasharmaa/images" width="100" height="100">
 
