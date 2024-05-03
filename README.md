@@ -22,6 +22,7 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 # IDE's Used 
 
-[![IntelliJ IDEA](https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg)](https://www.jetbrains.com/idea/)
+[![IntelliJ IDEA](https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png)](https://www.jetbrains.com/idea/)
+
 
 
