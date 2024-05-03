@@ -25,6 +25,10 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 [<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30">](https://www.jetbrains.com/idea/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" height="30">](https://www.eclipse.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30">](https://code.visualstudio.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" height="30">](https://www.jetbrains.com/pycharm/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30">](https://jupyter.org/)
+
+
 
 
 
