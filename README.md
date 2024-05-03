@@ -13,4 +13,5 @@ I'm a Computer Science student with a high passion for Data Science and Web Deve
 
 # Programming Languages
 
-![kisspng-java-computer-software-logo-5ada1dd2218254 9305383915242439221373](https://github.com/mishasharmaa/mishasharmaa/assets/148586686/0d66f0e0-801c-4d85-afa3-0c2f624129b8)
+<img src="Users/mishasharma/Desktop/Github/JavaLogo.png" alt="Image Description" width="100" height="100">
+
