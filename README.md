@@ -10,7 +10,7 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 - Working at FCA Etobicoke Casting plant. Making and filing car parts 🔨
 
 - Let's connect! 🔗
-- 
+  
 # Programming Languages
 
 [<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40">](https://www.java.com/)
@@ -27,6 +27,10 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="30">](https://code.visualstudio.com/)
 [<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" height="30">](https://www.jetbrains.com/pycharm/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="30">](https://jupyter.org/)
+
+# Get In Touch 
+
+Reach out to me! Let's develop something life-changing!
 
 
 
