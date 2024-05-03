@@ -13,5 +13,4 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 # Programming Languages
 
-<img src="/Users/mishasharma/mishasharmaa/images/JavaLogo.jpg" width="100" height="100">
-
+[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40">](https://www.java.com/)
