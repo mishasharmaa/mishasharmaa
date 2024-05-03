@@ -1,11 +1,11 @@
 # Hi, I'm Misha Sharma! 
-I'm a Computer Science student with a high passion for Data Science and Web Developing!
+I'm a Computer Science student with a high passion for Data Science and Web development!
 
 # About Me
 
-- Cuurently attending https://ontariotechu.ca/, pursuing an Honours degree in Computer Science 📚
+- Currently attending https://ontariotechu.ca/, pursuing an Honours degree in Computer Science 📚
 
-- Favourite Courses Taken: Data Structurs, Software Systems Dev. & Integ., Computation Science I. 
+- Favourite Courses Taken: Data Structures, Software Systems Dev. & Integ., Computation Science I. 
   
 - Working at FCA Etobicoke Casting plant. Making and filing car parts 🔨
 
@@ -13,5 +13,5 @@ I'm a Computer Science student with a high passion for Data Science and Web Deve
 
 # Programming Languages
 
-<img src="images/JavaLogo.png" alt="Image Description" width="100" height="100">
+<img src="/Users/mishasharma/mishasharmaa/images" alt="Image Description" width="100" height="100">
 
