@@ -3,7 +3,7 @@ I'm a Computer Science student with a high passion for Data Science and Web Deve
 
 # About Me
 
-- Cuurently attending ([https://ontariotechu.ca/]), pursuing an Honours degree in Computer Science 📚
+- Cuurently attending https://ontariotechu.ca/, pursuing an Honours degree in Computer Science 📚
 
 - Favourite Courses Taken: Data Structurs, Software Systems Dev. & Integ., Computation Science I. 
   
