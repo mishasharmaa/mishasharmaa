@@ -24,7 +24,7 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 # Certifications 
 
 <a href="https://angular.io/">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png" alt="Angular Icon" height="50">
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png" alt="Angular Icon" height="60">
 </a>
 
 # IDE's Used 
