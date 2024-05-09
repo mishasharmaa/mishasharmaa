@@ -25,7 +25,6 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 [![Angular Icon](https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png?height=40)](https://angular.io/)
 
-
 # IDE's Used 
 
 [<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30">](https://www.jetbrains.com/idea/)
