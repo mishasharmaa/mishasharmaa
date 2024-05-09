@@ -33,6 +33,7 @@ Topics Learned:
 - Components
 - TypeScript 
 - Two Way Binding and Form Validation
+[Certificate](https://www.hackerrank.com/certificates/f3b50a874f1e)
 
 
 # IDE's Used 
