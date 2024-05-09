@@ -23,7 +23,7 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 # Certifications 
 
-[<img src="file:///Users/mishasharma/Downloads/pngwing.com.png" height="40">](https://www.hackerrank.com/)
+[<img src="angular_logo_icon_169598](https://github.com/mishasharmaa/mishasharmaa/assets/148586686/1dfb0a65-311e-4ab0-8670-3405c523d48e" height="40">](https://angular.io/))
 
 # IDE's Used 
 
