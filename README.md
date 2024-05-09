@@ -23,7 +23,8 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 
 # Certifications 
 
-[<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fangular_logo_icon_169598.png&tbnid=Y7mDaRxFQbC8JM&vet=1&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fangular-logo%2F169598&docid=PhvQyHl7WZLPOM&w=512&h=256&source=sh%2Fx%2Fim%2Fm1%2F1&kgs=ac4f3128eac2772f&shem=abme%2Ctrie%2Cxga1pt1" height="40>](https://angular.io/)
+[![Angular Icon](https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png)](https://angular.io/)
+
 
 # IDE's Used 
 
