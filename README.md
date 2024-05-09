@@ -21,6 +21,9 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+# Certifications 
+
+[img src="https://www.hackerrank.com/certificates/f3b50a874f1e" height="40">](https://www.hackerrank.com/)
 # IDE's Used 
 
 [<img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" height="30">](https://www.jetbrains.com/idea/)
