@@ -26,6 +26,12 @@ I'm a Computer Science student with a high passion for Data Science and Web deve
 <a href="https://angular.io/">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169598.png" alt="Angular Icon" height="60">
 </a>
+Topics Learned:
+- MVC Frameworks
+- Components
+- TypeScript 
+- Two Way Binding and Form Validation
+
 
 # IDE's Used 
 
