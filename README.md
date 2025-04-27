@@ -50,7 +50,7 @@ Topics Learned:
 
 Reach out to me! Let's develop something life-changing! Here's my resume below!
 
-[Resume](https://www.overleaf.com/read/cthhthqbvmtd#e50d0c)
+[Resume](file:///Users/mishasharma/Downloads/Misha_Resume___2025.pdf)
 
 
 
