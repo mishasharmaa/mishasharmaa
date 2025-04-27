@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misha-sharma171/)
 
-I'm a Computer Science student with a high passion for Data Science and Web development!
+I'm a 4th Year Computer Science student with a high passion for Data Science and Web development!
 
 # About Me
 
