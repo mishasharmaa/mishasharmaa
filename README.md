@@ -50,7 +50,7 @@ Topics Learned:
 
 Reach out to me! Let's develop something life-changing! Here's my resume below!
 
-[Resume](file:///Users/mishasharma/Downloads/Misha_Resume___2025.pdf)
+[Resume](Misha_Resume___2025.pd)
 
 
 
