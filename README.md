@@ -10,7 +10,7 @@ I'm a 4th Year Computer Science student with a high passion for Data Science and
 
 - Favourite Courses Taken: Data Structures, Software Systems Dev. & Integ., Computational Science I, Software Quality, Information Visualization, Systems Programming, Big Data Analysis, Statistics, Human-Computer Interaction 🖥️
 
-- [Let's connect!](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/misha-sharma171/) 🔗
+- [Let's connect!](https://www.linkedin.com/in/misha-sharma171/) 🔗
   
 # Programming Languages
 
