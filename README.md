@@ -21,6 +21,7 @@ I'm a 4th Year Computer Science student with a high passion for Data Science and
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" height="30">](https://www.r-project.org)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="40">](https://www.w3schools.com/c/c_intro.php)
 
 # Certifications 
 
