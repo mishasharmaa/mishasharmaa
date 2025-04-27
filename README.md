@@ -50,7 +50,7 @@ Topics Learned:
 
 Reach out to me! Let's develop something life-changing! Here's my resume below!
 
-[Resume](https://docs.google.com/document/d/1NP9sdXYnkMOjpxtr7nlWtSWYx2qKIrrSCalMp6zNKq0/edit?usp=sharing)
+[Resume](https://www.overleaf.com/read/cthhthqbvmtd#e50d0c)
 
 
 
