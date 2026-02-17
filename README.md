@@ -51,7 +51,7 @@ Topics Learned:
 
 Reach out to me! Let's develop something life-changing! Here's my resume below!
 
-[Resume](https://github.com/mishasharmaa/mishasharmaa/raw/main/Misha_Resume___2025.pdf)
+[Resume](https://github.com/mishasharmaa/mishasharmaa/blob/main/Misha_Resume___2026.pdf)
 
 
 
